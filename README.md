@@ -1,13 +1,16 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
+
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
 ## Equipments Required:
+
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 1.Import the standard Libraries.
 
 2.Set variables for assigning dataset values.
@@ -22,6 +25,7 @@ To write a program to predict the marks scored by a student using the simple lin
  
 
 ## Program:
+
 ```/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: BHUVANESHWARI S
@@ -62,6 +66,7 @@ plt.plot(X_train,lr.predict(X_train),color='red')
 ```
 
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/b88e7da7-b5b1-4f4c-b366-4c3ae7982f1c)
 
 
